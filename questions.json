@@ -1,0 +1,223 @@
+ [
+    {
+      "questionNo": "Q1.",
+      "question": "What is an inference?",
+      "options": [
+        "A direct statement from the text",
+        "A guess based on clues and prior knowledge",
+        "A detailed summary of the text",
+        "A question you ask while reading"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q2.",
+      "question": "Inference helps you understand a text by:",
+      "options": [
+        "Looking at the title",
+        "Reading the conclusion first",
+        "Using clues from the text and your own knowledge",
+        "Ignoring the details in the text"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q3.",
+      "question": "In which of the following situations would you most likely need to make an inference?",
+      "options": [
+        "When the author clearly tells you everything",
+        "When the text gives you clues, but not all the information",
+        "When the text is very simple and direct",
+        "When the text contains no details"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q4.",
+      "question": "Which of these is an example of making an inference?",
+      "options": [
+        "The sun is shining brightly.",
+        "The character is sad because of the dark clouds.",
+        "It is sunny outside.",
+        "The text talks about a picnic."
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q5.",
+      "question": "<b>Which of the following is most likely an inference you could make from this passage:</b><br> 'John forgot his lunch on the kitchen counter. He looked worried as he got on the bus.'",
+      "options": [
+        "John has a test at school",
+        "John feels excited about school",
+        "John is hungry",
+        "John is excited for lunch"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q6.",
+      "question": "<b>What can you infer from the statement:</b><br> 'The ground was covered in snow, and Sarah wore her warmest jacket'?",
+      "options": [
+        "Sarah was feeling cold",
+        "Sarah enjoys cold weather",
+        "Sarah was in a hurry",
+        "Sarah dislikes snow"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q7.",
+      "question": "\"The dog wagged its tail and ran toward the door when it saw its owner coming.\"<br> What inference can you make?",
+      "options": [
+        "The dog dislikes its owner",
+        "The dog is afraid of the owner",
+        "The dog is excited to see its owner",
+        "The dog wants to go outside"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q8.",
+      "question": "\"It was very quiet in the classroom. The students were sitting still at their desks.\"<br> What can you infer about the classroom?",
+      "options": [
+        "The students were loud",
+        "The students were listening carefully",
+        "The students were excited",
+        "The students were talking"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q9.",
+      "question": "Based on the phrase <br>\"His hands were shaking as he held the microphone,\" you can infer that the person feels:",
+      "options": [
+        "Calm and confident",
+        "Tired",
+        "Happy",
+        "Nervous or scared"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q10.",
+      "question": "If a character is always helping others but never asking for help, what could you infer about their personality?",
+      "options": [
+        "They are selfish",
+        "They are independent and caring",
+        "They are rude",
+        "They don’t like people"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q11.",
+      "question": "What can you infer about a character who is always late to school?",
+      "options": [
+        "They are disorganised or having trouble managing time",
+        "They love school",
+        "They want to learn",
+        "They are always on time"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q12.",
+      "question": "\"Lina's shoes were covered in mud, and she had a big smile on her face.\"<br> What inference can you make?",
+      "options": [
+        "Lina had been walking through a muddy field and enjoyed it",
+        "Lina was upset about getting her shoes dirty",
+        "Lina was walking on a clean path",
+        "Lina didn’t like the mud"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q13.",
+      "question": "\"The students are sitting quietly with their notebooks open, waiting for the lesson to begin.\"<br> You can infer that:",
+      "options": [
+        "The students are angry",
+        "The students are talking",
+        "The students are bored",
+        "The students are ready to learn"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q14.",
+      "question": "\"He couldn’t stop yawning during the meeting.\"<br> What can you infer about how he feels?",
+      "options": [
+        "He is interested",
+        "He is tired",
+        "He is happy",
+        "He is excited"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q15.",
+      "question": "What can you infer from the sentence, <br>\"The forest was filled with the sound of chirping birds and rustling leaves\"?",
+      "options": [
+        "The forest was quiet",
+        "The forest was calm",
+        "The forest was lively and full of animals",
+        "The forest was dangerous"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q16.",
+      "question": "If a character is always wearing the same clothes and never smiles, what might you infer about them?",
+      "options": [
+        "They are happy",
+        "They like to stand out",
+        "They might be sad or lonely",
+        "They are always late"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q17.",
+      "question": "\"The ice cream melted in the hot sun.\"<br> What can you infer about the weather?",
+      "options": [
+        "It was cold",
+        "It was windy",
+        "It was warm or hot",
+        "It was raining"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q18.",
+      "question": "If a character always finishes their homework early and has plenty of time to play, what can you infer about their habits?",
+      "options": [
+        "They procrastinate",
+        "They manage their time well",
+        "They do not like to study",
+        "They are always distracted"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q19.",
+      "question": "\"The teacher smiled as she looked at the completed project.\"<br> What can you infer?",
+      "options": [
+        "The project was bad",
+        "The teacher was pleased with the project",
+        "The teacher didn’t like the project",
+        "The teacher was angry"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q20.",
+      "question": "\"The clock struck midnight, and the castle was quiet.\"<br> What can you infer about the setting?",
+      "options": [
+        "It was daytime",
+        "It was morning",
+        "It was nighttime",
+        "It was afternoon"
+      ],
+      "correct": 2
+    }
+  ]
+
